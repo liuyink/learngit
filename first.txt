@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 "not can be look chinses!!!"
 Creating a new branch is quick.
 this dev
+i can hide;
