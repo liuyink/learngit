@@ -8,3 +8,4 @@ i can hide;
 Creating a new branch is quick and simple.
 add branch dev
 second merge
+change bug
